@@ -1,0 +1,22 @@
+{
+  "name": "creatingly-diagrams.net",
+  "version": "1.0.0",
+  "description": "Personal Assignment Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeeshantasleem/creatingly-diagrams.net.git"
+  },
+  "author": "Zeeshan Tasleem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeeshantasleem/creatingly-diagrams.net/issues"
+  },
+  "homepage": "https://github.com/zeeshantasleem/creatingly-diagrams.net#readme",
+  "dependencies": {
+    "cypress": "^15.10.0"
+  }
+}
